@@ -1,6 +1,6 @@
 {
   "name": "mcsm",
-  "root": "./",
-  "clean_urls": false,
+  "root": "./public",
+  "clean_urls": true,
   "error_page": "error.html"
 }

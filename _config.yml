@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-email:
+title: MCSM / Make Things Munich
+subtitle: Start tinkering today
+description: Hacker Spaces and Maker Space
+author: MCSM
+email: mulder@mtpartners.de
 language:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://mcms.divshot.io
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
