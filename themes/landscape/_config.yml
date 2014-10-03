@@ -1,6 +1,7 @@
 # Header
 menu:
   Home: /
+  Bahn: /bahn
   Location: /location
   About us: /about-us
 rss: /atom.xml

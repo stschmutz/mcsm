@@ -1,21 +1,19 @@
-title: about us
+title: About us
 date: 2014-09-05 10:16:50
 ---
 
+The MCSM offers a number of tools to help you create ideas:
 
-# Location
+* Holzwerkstatt
+* Metallwerstatt
+* Elektronik-Arbeitsraum
 
+# History
 
-Address: 
+MCSM comes from Modelbau Club Siemsens München and was formely the Siemens Club for model engines.
 
-Sirius Business Park (form. Siemenswerke)
-Rupert-Mayer-Strasse 44
 
 # How to get there?
 
-
-
-
-
-
+See [location](/location).
 

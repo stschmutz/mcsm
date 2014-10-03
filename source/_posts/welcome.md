@@ -11,5 +11,3 @@ MCSM hat verschiedene Werkstätten für die Verarbeitung von Holz und Metall, so
 
 More information about the location are: [here](/location).
 
-
-More info: [Deployment](http://hexo.io/docs/deployment.html)
