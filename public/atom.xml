@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[MCSM / Make Things Munich]]></title>
+  <subtitle><![CDATA[Start tinkering today]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://mcms.divshot.io/"/>
+  <updated>2014-10-03T11:01:34.985Z</updated>
+  <id>http://mcms.divshot.io/</id>
+  
+  <author>
+    <name><![CDATA[MCSM]]></name>
+    <email><![CDATA[mulder@mtpartners.de]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Welcome!]]></title>
+    <link href="http://mcms.divshot.io/2014/09/07/welcome/"/>
+    <id>http://mcms.divshot.io/2014/09/07/welcome/</id>
+    <published>2014-09-07T10:06:57.000Z</published>
+    <updated>2014-09-07T10:06:56.000Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">MCSM</a>! </p>
+<h2 id="The_space">The space</h2>
+<p>MCSM hat verschiedene Werkstätten für die Verarbeitung von Holz und Metall, sowie Elektronik.</p>
+<h2 id="How_to_find_us">How to find us</h2>
+<p>More information about the location are: <a href="/location">here</a>.</p>
+]]></content>
+    
+    
+  </entry>
+  
+</feed>
