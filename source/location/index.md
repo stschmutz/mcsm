@@ -1,10 +1,9 @@
 title: The Location
-date: 2014-09-05 19:24:08
+date: 2014-10-07 22:34:08
 ---
-
 ## How to find MCSM
 
-The MSCM is located at Sirius Business Park (form. Siemenswerke) at Rupert-Mayer-Str. 44.  You can get there either with U3, station "Obersendling", or S3, station "Siemenswerke". It is a 5-10 minutes walk to the main entrance.
+The MSCM is located at Sirius Business Park (form. Siemenswerke) at Rupert-Mayer-Str. 44.  You can get there either with U3, station &quot;Obersendling&quot;, or S3, station &quot;Siemenswerke&quot;. It is a 5-10 minutes walk to the main entrance.
 
 <div id="map-canvas"></div>
 <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
@@ -22,18 +21,18 @@ There are also several side entrances, which currently work as exits right now:
 
 ## Finding Geb. 6415, Raum 169
 
-Once you are witin the Sirius Business Park and look for building 6415. Enter the building, and go to the basement and follow the signs of "Siemens Modelbau Club".
+Once you are witin the Sirius Business Park and look for building 6415. Enter the building, and go to the basement and follow the signs of &quot;Modellbauclub der Siemens Mitarbeiter M&uuml;nchen&quot;
 
 Additional information how to get there are on the old [MCSM website](http://home.arcor.de/mcsm-muenchen/main/mainadresse.htm)
 
 
 ## Address
 
-Modellbauclub Siemens München MCSM
-Sirius Business Park (form. Siemenswerke)
+Modellbauclub der Siemens Mitarbeiter M&uuml;nchen e.V.
+Sirius Business Park
 Ruppert Mayer-Str.44
-81379 München
-Gebäude 6415, Raum 169
+81379 M&uuml;nchen
+Geb&auml;ude 6415, Raum 169
 
 <script>
 
