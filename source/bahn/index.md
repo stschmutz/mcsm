@@ -11,7 +11,7 @@ digital mit DCC im 2L-Leitersystem. Als Gleismaterial wird derzeit
 Roco-Line Gleis verwenden.
 
 Die gesamte Digital-Steuerung wurde von unserem Mitglied Erhard
-entwickelt. Dazu gehört:
+entwickelt. Dazu geh&ouml;rt:
 
 * Die Schaltung und das Platienen-Layout der Block-Dekoder.
 * Die Mikrocontroller-Steuerung zum erzeugen des DCC-Signals.
