@@ -1,5 +1,5 @@
-title: werkstat
-date: 2014-10-28 00:02:00
+title: Werkstatt
+date: 18.02.2015
 ---
 
 ## Werkst&auml;tten und Maschinen
@@ -10,7 +10,7 @@ und Werkzeugen. Diese kann sich der Einzelne meist gar nicht leisten.
 Unser Anliegen ist die Bereitstellung und Pflege, die Ergänzung und richtige
 Handhabung dieser Ger&auml;te und ihres Zubeh&ouml;rs.  
 
-Sicherheit hat den gr&ouml;
+Sicherheit hat den gr&ouml;sten Stellenwert.
 
 ## Metallbearbeitung
 	

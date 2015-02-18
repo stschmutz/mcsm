@@ -17,4 +17,7 @@ With:
 
 You get a set of static files in /public
 
+Create new Page
+hexo new page "Test DE" --lang de
+hexo new page "Test EN" --lang en
 

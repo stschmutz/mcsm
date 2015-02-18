@@ -1,32 +1,24 @@
-title: The Location
-date: 2014-10-07 22:34:08
+title: Clubraum
+date: 18.02.2015
 ---
-## How to find MCSM
+## Clubraum
 
-The MSCM is located at Sirius Business Park (form. Siemenswerke) at Rupert-Mayer-Str. 44.  You can get there either with U3, station &quot;Obersendling&quot;, or S3, station &quot;Siemenswerke&quot;. It is a 5-10 minutes walk to the main entrance.
+Die Clubr&auml;me des MSCM befinden sich im Sirius Business Park in der Rupert-Mayer-Str. 44.  Du kann mit der U3 bis zur Station &quot;Obersendling&quot; oder mit der S3, bis zur Station &quot;Siemenswerke&quot; fahren. Von dort sind es 5-10 Minuten zum Haupteingang.
 
 <div id="map-canvas"></div>
 <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
 
 <img src="/images/sirius_main-fs8.png" />
 
-
-There are side entrances but if it is better to access the area at the main entrance.
+F&uuml;r den ersten Besuch bietet es sich an beim Pf&ouml;rtner am Haupteingang das Gel&auml;nde zu betreten und sich den Weg erkl&auml;ren zu lassen.
 
 <img src="/images/sirius_entrance-fs8.png" />
 
-There are also several side entrances, which currently work as exits right now:
+Die Seiteneing&auml;nge k&ouml;nnen nur als Ausg&auml;nge benutzt werden.
 
 <img src="/images/mcsm_road-fs8.png" />
 
-## Finding Geb. 6415, Raum 169
-
-Once you are within the Sirius Business Park and look for building 6415. Enter the building, and go to the basement and follow the signs of &quot;Modellbauclub der Siemens Mitarbeiter M&uuml;nchen&quot;
-
-Additional information how to get there are on the old [MCSM website](http://home.arcor.de/mcsm-muenchen/main/mainadresse.htm)
-
-
-## Address
+## Adresse
 
 Modellbauclub der Siemens Mitarbeiter M&uuml;nchen e.V.
 Sirius Business Park

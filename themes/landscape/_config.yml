@@ -1,9 +1,19 @@
 # Header
+## menu:
+##   Home: /
+##   Location: /location
+##   News: /news
+##   About us: /about-us
+##   Bahn: /bahn
+##   Werkstatt: /werkstatt
+##   Impressum: /impressum
 menu:
   Home: /
+  Clubraum: /clubraum
+  ## "&Uuml;ber uns": /ueber-uns
   Bahn: /bahn
-  Location: /location
-  About us: /about-us
+  Werkstatt: /werkstatt
+  Impressum: /impressum
 rss: /atom.xml
 
 # Content

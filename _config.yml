@@ -7,26 +7,29 @@ title: MCSM / Make Things Munich
 subtitle: Start tinkering today
 description: Hacker Spaces and Maker Space
 author: MCSM
-email: mulder@mtpartners.de
+email: mcsm-munich@acor.de
 language:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://mcms.divshot.io
 root: /
-permalink: :year/:month/:day/:title/
+# permalink: :year/:month/:day/:title/
+permalink: :lang/:title/
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 permalink_defaults:
+  lang: de
 
 # Directory
 source_dir: source
 public_dir: public
 
 # Writing
-new_post_name: :title.md # File name of new posts
+# new_post_name: :title.md # File name of new posts
+new_post_name: :lang/:title.md
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
