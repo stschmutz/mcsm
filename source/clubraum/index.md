@@ -1,5 +1,6 @@
 title: Clubraum
-date: 18.02.2015
+date: 2015-02-20 22:40:00
+
 ---
 ## Clubraum
 
@@ -8,15 +9,15 @@ Die Clubr&auml;me des MSCM befinden sich im Sirius Business Park in der Rupert-M
 <div id="map-canvas"></div>
 <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
 
-<img src="/images/sirius_main-fs8.png" />
+<img src="../images/sirius_main-fs8.png" />
 
 F&uuml;r den ersten Besuch bietet es sich an beim Pf&ouml;rtner am Haupteingang das Gel&auml;nde zu betreten und sich den Weg erkl&auml;ren zu lassen.
 
-<img src="/images/sirius_entrance-fs8.png" />
+<img src="../images/sirius_entrance-fs8.png" />
 
 Die Seiteneing&auml;nge k&ouml;nnen nur als Ausg&auml;nge benutzt werden.
 
-<img src="/images/mcsm_road-fs8.png" />
+<img src="../images/mcsm_road-fs8.png" />
 
 ## Adresse
 

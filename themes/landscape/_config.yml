@@ -11,7 +11,9 @@ menu:
   Home: /
   Clubraum: /clubraum
   ## "&Uuml;ber uns": /ueber-uns
-  Bahn: /bahn
+  Eisenbahn: /bahn
+  Modellbau: /modellbau
+  ## Schiffe: /schiff
   Werkstatt: /werkstatt
   Impressum: /impressum
 rss: /atom.xml

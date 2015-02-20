@@ -12,8 +12,8 @@ language:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://mcms.divshot.io
-root: /
+url: http://home.arcor.de/mcsm-muenchen
+root: /mcsm-muenchen/
 # permalink: :year/:month/:day/:title/
 permalink: :lang/:title/
 tag_dir: tags
@@ -51,9 +51,9 @@ tag_map:
 ## 2: Enable pagination
 ## 1: Disable pagination
 ## 0: Fully Disable
-archive: 2
-category: 2
-tag: 2
+archive: 0
+category: 0
+tag: 0
 
 # Server
 ## Hexo uses Connect as a server
