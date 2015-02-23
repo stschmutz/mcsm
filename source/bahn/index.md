@@ -1,11 +1,9 @@
 title: Eisenbahn
-date: 18.02.2015
-date: 2015-02-20 22:34:08
+date: 2015-02-23 22:39:00
 ---
 
 ## N Bahn im Ma&szlig;stab 1:160
-Gefahren wird auf der N-Bahn analog auf der Nebenstecke und digital
-auf der Hauptstrecke.
+Die N-Bahn verfügt über eine digital gesteuerte Hauptstrecke die viel Fahrstrecke für lange Zugkombinationen bietet aber auch einen realistischen ICE Betrieb ermöglicht. Die idyllische Nebenstrecke wird gemütlich, passend zum vorherrschenden Dampflokbetrieb, analog gesteuert.
 
 <img src="N-Bahn_0001.jpg" />
 <img src="N-Bahn_0002.jpg" />
@@ -17,16 +15,20 @@ Die H0 Modelleisenbahn ist derzeit noch im Entstehen. Gefahren wird
 digital mit DCC im 2L-Leitersystem. Als Gleismaterial wird derzeit 
 Roco-Line Gleis verwenden.
 
+<img src="H0_Bhf.jpg" />
+<img src="Dammtor.jpg" />
+
 Die gesamte Digital-Steuerung wurde von unserem Mitglied Erhard
 entwickelt. Dazu geh&ouml;rt:
 
-* Die Schaltung und das Platienen-Layout der Block-Dekoder.
+* Die Schaltung und das Platinen-Layout der Block-Dekoder.
 * Die Mikrocontroller-Steuerung zum erzeugen des DCC-Signals.
 * Die Erstellung des gesamten Software, sowohl f&uuml;r die
-  Mikrocontroller als auf f&uuml;r die PC's
+  Mikrocontroller als auch f&uuml;r die PC's
   
 <img src="Blockdecoder.jpg" />
 
 
 ## LGB - IIm
+<img src="LGB.jpg" />
 
