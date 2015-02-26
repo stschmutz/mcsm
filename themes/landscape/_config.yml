@@ -9,11 +9,12 @@
 ##   Impressum: /impressum
 menu:
   Home: /
+  Munich Maker Space: http://munichmakerspace.de
   Clubraum: /clubraum
-  ## "&Uuml;ber uns": /ueber-uns
+  Über uns: /ueber-uns
   Eisenbahn: /bahn
   Modellbau: /modellbau
-  ## Schiffe: /schiff
+  Schiffe: /schiff
   Werkstatt: /werkstatt
   Impressum: /impressum
 rss: /atom.xml

@@ -3,22 +3,25 @@ date: 18.02.2015
 ---
 
 ## Vorstand
+Der gesamte Vorstand ist unter der e-Mail Adresse [mcsm-muenchen@arcor.de](mailto:mcsm-muenchen@arcor.de) zu erreichen.
+
 * Vorstand
 Stefan Schmutz
 Jahnstr. 13, 
 82110 Germering 
 Tel.: 0179/8180617
-e-Mail: mcsm-muenchen@arcor.de
+e-Mail: [st.schmutz@gmx.de](mailto:st.schmutz@gmx.de)
 
 * Stellvertretender Vorstand
 J&ouml;rg Neitzel
+Tel. 08137/6329848 oder mobil 0178/6157747
+e-Mail: [jn.muenchen@arcor.de](mailto:jn.muenchen@arcor.de)
 
 * Kassierer
 R&uuml;diger Froese-Peeck
 
 * Schriftf&uuml;hrer
 Christian Kirchhoff
-
 
 
 ## Urheberrecht

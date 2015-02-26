@@ -3,11 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: MCSM / Make Things Munich
-subtitle: Start tinkering today
+# title: MCSM / Make Things Munich
+# subtitle: Start tinkering today
+title: Modellbauclub der Siemens Mitarbeiter München e.V. (MCSM)
+subtitle: Munich Maker Space (MunichMakeS)
 description: Hacker Spaces and Maker Space
 author: MCSM
-email: mcsm-munich@acor.de
+email: mcsm-munich@arcor.de
 language:
 
 # URL

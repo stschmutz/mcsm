@@ -1,6 +1,8 @@
 title: Eisenbahn
-date: 2015-02-23 22:39:00
+date: 2015-02-26 23:28:00
 ---
+## Ansprechpartner Modelleisenbahn
+Bei allen Fragen rund um die Modelleisenbahn kannst Du Dich direkt an unseren Fachgruppenleiter [J&ouml;rg Neitzel](mailto:jn.muenchen@arcor.de) wenden.
 
 ## N Bahn im Ma&szlig;stab 1:160
 Die N-Bahn verfügt über eine digital gesteuerte Hauptstrecke die viel Fahrstrecke für lange Zugkombinationen bietet aber auch einen realistischen ICE Betrieb ermöglicht. Die idyllische Nebenstrecke wird gemütlich, passend zum vorherrschenden Dampflokbetrieb, analog gesteuert.
