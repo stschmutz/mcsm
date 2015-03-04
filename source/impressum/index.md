@@ -1,14 +1,18 @@
 title: Impressum
-date: 18.02.2015
+date: 2015-03-04 01:22:00
 ---
 
 ## Vorstand
 Der gesamte Vorstand ist unter der e-Mail Adresse [mcsm-muenchen@arcor.de](mailto:mcsm-muenchen@arcor.de) zu erreichen.
 
-* Vorstand
-Stefan Schmutz
+* MCSM Postanschrift
+MCSM
+Hr. Stefan Schmutz
 Jahnstr. 13, 
 82110 Germering 
+
+* Vorstand
+Stefan Schmutz
 Tel.: 0179/8180617
 e-Mail: [st.schmutz@gmx.de](mailto:st.schmutz@gmx.de)
 
