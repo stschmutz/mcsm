@@ -27,3 +27,8 @@ Wir freuen uns immer &uuml;ber neue Mitglieder.
 * [Datenerkl&auml;rung](Datenerklaerung.pdf)
 * [SEPA-Lastschrift](SEPA-Lastschrift.pdf)
 
+# Alle Informationen als &Uuml;bersicht
+
+* [Aushang](Aushang.pdf)
+* [Flyer](Flyer.pdf)
+
